@@ -39,7 +39,6 @@ ul {
     width: 100%;
     z-index: 1000;
     background: rgba(8, 8, 8, 0.9);
-    backdrop-filter: blur(12px);
     border-bottom: 1px solid #1c1c1c;
 }
 
