@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://portfolio-beta-lilac-7e3iqz9xrw.vercel.app/sitemap.xml
